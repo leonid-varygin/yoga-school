@@ -1122,7 +1122,7 @@ li.footer_list:hover {
 }
 .footer_text {
   text-align: center;
-  padding-bottom: 125px;
+  padding-bottom: 50px;
 }
 .devleon:hover {
   color: purple
@@ -2677,6 +2677,7 @@ span {
     height: auto;
     margin-left: 0;
     margin-right: 30px;
+    
   }
 }
 
@@ -2749,6 +2750,9 @@ span {
     margin-left: 0;
     margin-right: 30px;
     z-index: 1500;
+    position: fixed;
+    z-index: 1500;
+    right: 10px;
   }
 
   .my-tog-btn span {
